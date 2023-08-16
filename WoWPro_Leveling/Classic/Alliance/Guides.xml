@@ -1,4 +1,7 @@
 <Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Alenya_Hardcore_NightElf_01_11.lua"/>
+	<Script file="Alenya_Hardcore_NightElf_11_20.lua"/>
+	<Script file="Alenya_Hardcore_NightElf_20_25.lua"/>
 	<Script file="01_12_Dun_Morogh.lua"/>
 	<Script file="01_12_Elwynn.lua"/>
 	<Script file="01_12_Teldrassil.lua"/>
